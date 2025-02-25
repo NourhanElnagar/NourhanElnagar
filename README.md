@@ -38,16 +38,6 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.png" alt=".NET" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/ASP.NET_Core_Logo.svg" alt="ASP.NET Core" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/E/entity-framework-logo-96454C03DA-seeklogo.com.png" alt="Entity Framework Core" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
