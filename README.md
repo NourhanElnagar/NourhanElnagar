@@ -10,7 +10,7 @@
 ## 💁‍♀️ About me
   
  - 👩🏽‍💻 I’m a Software Engineer.
- - 🎓Trainee at ITI, specializing in `Full stack web development using .Net`.<!--ITI Graduate-->
+ - 🎓 Trainee at ITI, specializing in `Full stack web development using .Net`.<!--ITI Graduate-->
  - 🏫 I graduated from the Faculty of Computers & Informatics at Suez Canal University.
  - 🎯 I’m currently focusing on `Full stack web development using .Net`.
  - 📫 How to reach me: **[Email](Nourhanelnagar3@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nourhan-elnagar/)**
